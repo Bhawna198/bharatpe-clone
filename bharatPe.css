@@ -20,7 +20,8 @@ body{
 #navbar img{
     max-height: 32px;
     padding: 0px 100px;
-}
+} 
+
 #navbar ul {
     display: flex;
     padding: 5px;
